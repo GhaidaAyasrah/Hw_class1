@@ -7,4 +7,5 @@
  |1| how to sing  in git hub| [click](lectures/lec1-hw.md)|
  |2| Markdown Cheat Sheet | [click](lectures/markdown.md) |
  |3| html | [click](lectures/html.md)|
-  
+    
+    
